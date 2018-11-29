@@ -1,4 +1,4 @@
 # nicolemacam.github.io
-![](pay.gif)
-![](split.gif)
-![](feed.gif)
+![](assets/img/pay.gif)
+![](assets/img/split.gif)
+![](assets/img/feed.gif)
